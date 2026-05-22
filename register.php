@@ -334,7 +334,7 @@ background-position:0% 50%;
 
     <div class="logo">
 
-        <img src="https://cdn-icons-png.flaticon.com/512/9068/9068679.png">
+        <img src="https://cdn-icons-png.flaticon.com/512/9068/9068676.png">
 
         <h1>TaskFlow</h1>
 
